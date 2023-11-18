@@ -4,9 +4,9 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_MODULE := System-app-remover
+LOCAL_MODULE := system_remover
 
-LOCAL_SRC_FILES := System-app-remover
+LOCAL_SRC_FILES := system_remover
 
 LOCAL_MODULE_CLASS := APPS
 
